@@ -1,0 +1,42 @@
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background: center / cover no-repeat url(../img/fee5eab30a698c169dc4fd5752359c2c.jpg) fixed;
+}
+
+main {
+    flex: 2;
+    justify-content: center;
+    text-align: center;
+    margin: 35px;
+    font: 300 25px;
+    background: rgba(238, 234, 234, 0.7);
+}
+
+p {
+    margin: 16px;
+}
+
+
+
+section {
+    max-width: 800px;
+    margin: 16px auto;
+}
+
+a:link,
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: yellowgreen;
+}
