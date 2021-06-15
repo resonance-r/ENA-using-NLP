@@ -6,7 +6,7 @@ Udacity project to build a web-tool that run Natural Language Processing (NLP) o
 -node -v
 -npm -v
 `` ref udacity-projects-starter-kit ``
-//https://www.youtube.com/watch?v=xPuBEwwL-lA
+// https://www.youtube.com/watch?v=xPuBEwwL-lA
 `` validation ref
  // ref. https://stackoverflow.com/questions/30970068/js-regex-url-validation
  // ref https://www.w3resource.com/javascript-exercises/javascript-regexp-exercise-9.php  ``
@@ -16,6 +16,8 @@ in cmd / Terminal cd folder name /cs project directory
 3. Install npm /webpack lesson 2
 - npm install
 4. Install loaders and plugins lesson 3 & 4
+** if error happen -> npm cache clean --force 
+
 # Choose the necessary installation for your development mode
 npm i -D @babel/core @babel/preset-env babel-loader
 npm i -D style-loader node-sass css-loader sass-loader
