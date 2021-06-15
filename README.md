@@ -5,11 +5,15 @@ Udacity project to build a web-tool that run Natural Language Processing (NLP) o
 -git --version
 -node -v
 -npm -v
+--------------------------------------------------------------------
 `` ref udacity-projects-starter-kit ``
 // https://www.youtube.com/watch?v=xPuBEwwL-lA
-`` validation ref
+`` validation ref ``
  // ref. https://stackoverflow.com/questions/30970068/js-regex-url-validation
- // ref https://www.w3resource.com/javascript-exercises/javascript-regexp-exercise-9.php  ``
+ // ref https://www.w3resource.com/javascript-exercises/javascript-regexp-exercise-9.php  
+Repo ref for way & readme 
+ https://github.com/emiribegic/evaluate-news-nlp.git 
+------------------------------------------------------------
 1. Move to the project folder
 in cmd / Terminal cd folder name /cs project directory
 2. Clone the repo /or download it 
